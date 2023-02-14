@@ -39,10 +39,8 @@ Overall, Python is a versatile and powerful programming language that is used in
 | Link/Name                                      | Description                           |
 |:----------------------------------------------|:-------------------------------------|
 |<https://roadmap.sh/python> |Python Developer Roadmap|
-|<https://roadmap.sh/backend> |Backend Developer Roadmap|
-|[Dave Gray HTML Course](https://www.youtube.com/watch?v=mJgBOIoGihA) |HTML|
-|[Dave Gray CSS Course](https://www.youtube.com/watch?v=n4R2E7O-Ngo&t=15s) |CSS|
-|[ZTM Course](https://www.youtube.com/watch?v=0kS3M8a6kP8) |HTML and CSS|
-|[React](https://github.com/EssaAhmd/Explore-and-Grow/tree/main/Skills%20Development/React) |React|
+|[Python for Beginners](https://drive.google.com/drive/folders/1USbQzhzFQ1enmuDMXP4QDz7BxTzOABJi) |Python for Beginners|
+|[Advance Python Course](https://drive.google.com/drive/folders/1YVRZ20f1A2319J9cpN8vGEbRMEjESFfC) |Modern Python Bootcamp|
+
 
 </div>
