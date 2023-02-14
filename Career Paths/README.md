@@ -5,14 +5,15 @@ List of resources and information related to different career paths in the field
 ## Table of Contents
 
 - [Software Development](#software-development)
-- [Data Science](#fonts)
-- [UX Design](#colors)
-- [Cybersecurity](#icons)
-- [Product Management](#logos)
-- [Digital Marketing](#favicons)
-- [Devops](#icon-fonts)
-- [Artificial Intelligence](#stock-photos)
-- [Cloud Computing](#stock-videos)
+- [Data Science](#data-science)
+- [UX Design](#ux-design)
+- [Cybersecurity](#cybersecurity)
+- [Product Management](#prodcut-management)
+- [Digital Marketing](#digital-marketing)
+- [Devops](#devops)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Cloud Computing](#cloud-computing)
+- [Blockchain](#blockchain)
 
 
 ## 1. Software Development
@@ -55,8 +56,16 @@ Digital Marketing Roadmap
 
 ## 7. DevOps
 DevOps is a popular career path for those who enjoy building and maintaining software infrastructure and processes that support continuous integration and delivery. The roadmap for DevOps includes learning cloud infrastructure, containerization, automation, and monitoring. Roadmap.sh offers a detailed roadmap for DevOps that covers everything from basic infrastructure concepts to advanced automation techniques.
+#### Career Paths
+- DevOps Engineer
+- Site Reliability Engineer
+- Infrastructure Engineer.
 
-DevOps Roadmap
+#### Resources
+- DevOps Roadmap
+- The Ultimate DevOps Mastery Bundle
+- DevOps Fundamentals
+- Getting Started with DevOps
 
 
 ## 8. Artificial Intelligence
@@ -73,6 +82,30 @@ Career Paths
 ## 9. Cloud Computing
 Cloud computing is a popular career path for those who enjoy building and maintaining digital infrastructure in the cloud, leveraging various cloud services to support business needs. The roadmap for cloud computing includes learning cloud architecture, security, deployment, and management. Roadmap.sh offers a comprehensive roadmap for cloud computing that covers everything from basic cloud concepts to advanced cloud deployment techniques.
 
-Cloud Computing Roadmap
+#### Career Paths
+- Cybersecurity Analyst
+- Penetration Tester
+- Information Security Engineer.
+
+#### Resources
+- Cybersecurity Fundamentals
+
+## 10. Blockchain
+
+#### Overview
+Blockchain is a decentralized digital ledger that records transactions on multiple computers in a secure and transparent manner. It is the technology behind cryptocurrencies such as Bitcoin, but it has a wider range of applications beyond finance.
+
+#### Career Paths
+- Blockchain Developer
+- Blockchain Engineer
+- Blockchain Project Manager
+- Blockchain Solutions Architect.
+
+#### Resources
+- Blockchain Basics
+- Blockchain Fundamentals
+- Blockchain Developer Bootcamp
+- Blockchain Solutions with Hyperledger
+
 
 That's it! I
