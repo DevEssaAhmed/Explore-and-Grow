@@ -1,6 +1,6 @@
-# <div align="center"> Python</dov>
+# <div align="center">C and C++ </dov>
 
-## <div align="center"> verview of C and C++</div>
+## <div align="center"> Overview of C and C++</div>
 
 
 C and C++ are programming languages that are widely used in the development of system software, operating systems, embedded systems, and applications that require high performance and low-level control.
