@@ -28,10 +28,10 @@ Stories and resources to keep individuals motivated and inspired on their person
 ## How to contribute?
 If it's your first time to contribute, here's some help!
 ### Please follow these steps:
-### 1: Fork this repository
-### 2: Clone the forked repo from your profile
-### 3: Create Branch and add your contribution
-### 4: Push changes and make a pull request
+- #### Fork this repository
+- #### Clone the forked repo from your profile
+- #### Create Branch and add your contribution
+- #### Push changes and make a pull request
 
 ## Make sure the pattern for each resource is like:
 ```
