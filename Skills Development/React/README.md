@@ -4,10 +4,7 @@
 
 | Link/Name                                      | Description                           |
 |:----------------------------------------------|:-------------------------------------|
-|https://roadmap.sh/frontend |Frontend Developer Roadmap|
-|https://roadmap.sh/backend |Backend Developer Roadmap|
-|[Dave Gray HTML Course](https://www.youtube.com/watch?v=mJgBOIoGihA) |HTML|
-|[Dave Gray CSS Course](https://www.youtube.com/watch?v=n4R2E7O-Ngo&t=15s) |CSS|
-|[ZTM Course](https://www.youtube.com/watch?v=0kS3M8a6kP8) |HTML and CSS|
-|[React](https://github.com/EssaAhmd/Explore-and-Grow/tree/main/Skills%20Development/React) |React|
+|<https://roadmap.sh/frontend> |Frontend Developer Roadmap|
+|<https://roadmap.sh/backend> |Backend Developer Roadmap|
 
+|[Coding with Sloba](https://www.youtube.com/playlist?list=PLjsBk8SIQEi9Owh_q04TK0SybkROD_AFx) |React|
