@@ -1,6 +1,6 @@
 # <div align="center"> Data Structures and Algorithms </div>
 
-## <div align="center"Overview of Data Structures and Algorithms</div>
+## <div align="center">Overview of Data Structures and Algorithms</div>
 
 Data Structures and Algorithms are fundamental concepts in computer science, which are used to organize and manipulate data and solve computational problems.
 

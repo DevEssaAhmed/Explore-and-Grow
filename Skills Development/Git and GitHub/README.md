@@ -34,6 +34,6 @@ Git is a version control system that is widely used in software development to m
 | Link/Name                                      | Description                           |
 |:----------------------------------------------|:-------------------------------------|
 |[Git Course](https://drive.google.com/drive/folders/1GubS--iuGXd23-7nOCU53BiAYqn49Dcz?usp=share_link) |Git Course|
-|[CheatSheets](https://github.com/EssaAhmd/Explore-and-Grow/tree/main/Skills%20Development/Git%20GitHub/CheatSheets) |Git CheatSheet|
+|[CheatSheets](https://github.com/DevEssaAhmed/Explore-and-Grow/tree/main/Skills%20Development/Git%20and%20GitHub/CheatSheets) |Git CheatSheet|
 
 </div>
